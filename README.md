@@ -9,5 +9,5 @@
 
   ***
 <p align="center">
-<img src="https://i.pinimg.com/736x/d0/fb/83/d0fb834082f2f6aa07f4e2e8fe0c05b5.jpg">
+<img src="https://i.pinimg.com/736x/d0/fb/83/d0fb834082f2f6aa07f4e2e8fe0c05b5.jpg" width="500" height="250">
 </p>
